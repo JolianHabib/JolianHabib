@@ -8,6 +8,7 @@ Crafting clean, thoughtful, and real-world software — solving problems through
 ---
 
 ## 🧭 About Me
+- B.Sc. student in **Software Engineering** at Afeka College  
 - Specializing in **Software & Information Technologies**
 - Focused on **practical software design**, not just theory
 - Interested in building solutions that have **real impact**
@@ -60,3 +61,4 @@ I aim to build solutions that are both technically solid and genuinely useful.
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
