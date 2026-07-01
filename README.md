@@ -68,13 +68,14 @@ A modern personal portfolio website built to showcase my projects, skills, and s
 
 ### [DotNet Game Project](https://github.com/JolianHabib/DotNet-Game-Project)
 
-A C#/.NET project focused on object-oriented programming, game logic, and structured application development.
+A C#/.NET client-server game project focused on object-oriented programming, server-side logic, game logic, and database integration.
 
 **Tech Stack:** C#, .NET, SQL
 
 **Main Features:**
+- Client-server architecture
+- Server-side game logic
 - Object-oriented C# structure
-- Game logic implementation
 - Database integration
 - Clean project organization
 
