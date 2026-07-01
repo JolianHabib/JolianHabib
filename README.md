@@ -38,6 +38,8 @@ Git · GitHub · VS Code · IntelliJ IDEA · Postman · Vercel · Render
 
 AI-powered trail planning web application for generating cycling and trekking routes.
 
+**Live Demo:** [View Project](https://afeka-trails-2026-three.vercel.app/)
+
 **Tech Stack:** Next.js, Express.js, MongoDB Atlas, JWT, OpenWeatherMap, OpenStreetMap, OpenRouter
 
 **Main Features:**
