@@ -149,4 +149,4 @@ Java-based system for managing employee shifts and work schedules.
 - GitHub: [JolianHabib](https://github.com/JolianHabib)
 - LinkedIn: [Jolian Habib](https://www.linkedin.com/in/jolian-habib-se/)
 - Portfolio: [View My Portfolio](https://jolian-portfolio.vercel.app/)
-- Email: [Jolianhabib123@gmail.com](mailto:Jolianhabib123@gmail.com)
+- Email: [jolianhabib123@gmail.com](mailto:jolianhabib123@gmail.com)
