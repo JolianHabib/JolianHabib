@@ -1,64 +1,148 @@
-<!-- Developer Icon -->
-<h1 align="center">👨‍💻 Jolian Habib</h1>
+# Hi, I'm Jolian Habib
 
-<p align="center">
-Crafting clean, thoughtful, and real-world software — solving problems through practical design.
-</p>
+Software Engineering student at Afeka College, specializing in Software and Information Technologies.  
+I am passionate about building practical, clean, and user-focused software systems.
 
 ---
 
-## 🧭 About Me
-- B.Sc. student in **Software Engineering** at Afeka College  
-- Specializing in **Software & Information Technologies**
-- Focused on **practical software design**, not just theory
-- Interested in building solutions that have **real impact**
-- Currently improving backend & system design skills
+## About Me
+
+I am a Software Engineering student with experience in academic and practical projects across backend, frontend, databases, and system design.
+
+I enjoy working on real-world applications, writing clean code, designing organized architectures, and improving my skills in backend development, full-stack systems, APIs, security, and deployment.
 
 ---
 
-## 🌱 Development Philosophy
-I believe software is a craft — something to be built with care, clarity, and intention.  
-For me, code is not just about making things work, but making them *well-designed, maintainable, and meaningful in the real world*.  
-I aim to build solutions that are both technically solid and genuinely useful.
+## Tech Stack
+
+### Languages
+Java · JavaScript · C · C++ · C# · SQL · PL/pgSQL · HTML · CSS
+
+### Frontend
+React · Vite · Next.js · Framer Motion · Responsive UI
+
+### Backend
+Node.js · Express.js · REST APIs · JWT Authentication · .NET
+
+### Databases
+PostgreSQL · MongoDB · MongoDB Atlas
+
+### Tools & Platforms
+Git · GitHub · VS Code · IntelliJ IDEA · Postman · Vercel · Render
 
 ---
 
-## 🧰 Tech Stack
+## Featured Projects
 
-### 🖥️ Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
-</p>
+### Afeka Trails 2026
+AI-powered trail planning web application for generating cycling and trekking routes.
 
-### 🌐 Web & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" />
-</p>
+**Tech Stack:** Next.js, Express.js, MongoDB Atlas, JWT, OpenWeatherMap, OpenStreetMap, OpenRouter
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### 🛠️ Tools & Dev Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
-> Also familiar with **low-level concepts** through basic exposure to Assembly programming.
+**Main Features:**
+- AI-based trail generation
+- Interactive map integration
+- Weather data integration
+- User authentication
+- Saved trail history
+- Full-stack architecture
+- Cloud deployment
 
 ---
 
-## 🚀 Projects (coming soon...)
-📌 This section will feature selected projects showcasing  
-**practical development**, **clean design**, and **real-world problem solving**.
+### Personal Portfolio
+A modern personal portfolio website built to showcase my projects, skills, and software engineering journey.
+
+**Tech Stack:** React, Vite, Framer Motion, CSS
+
+**Main Features:**
+- Responsive design
+- Animated sections
+- Project showcase
+- Clean modern UI
+- Component-based structure
 
 ---
 
-## 📫 Connect With Me
-<p>
-  <a href="https://github.com/JolianHabib">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+### Exam System
+Java-based exam management system using object-oriented programming and database integration.
 
+**Tech Stack:** Java, JDBC, PostgreSQL
+
+**Main Features:**
+- Teacher and subject management
+- Question and answer management
+- Exam creation workflow
+- Database connection
+- Clean OOP structure
+
+---
+
+### Medical Clinic Database
+A complete PostgreSQL database system for managing a medical clinic.
+
+**Tech Stack:** PostgreSQL, PL/pgSQL
+
+**Main Features:**
+- Database schema design
+- Tables and relationships
+- Constraints
+- Triggers
+- Stored logic
+- Analytical SQL queries
+
+---
+
+### Shift Management System
+Java-based system for managing employee shifts and work schedules.
+
+**Tech Stack:** Java
+
+**Main Features:**
+- Employee scheduling
+- Role-based workflows
+- Attendance tracking
+- Organized object-oriented structure
+
+---
+
+### GameFactory C Project
+A C programming project focused on logic, memory management, and structured programming.
+
+**Tech Stack:** C
+
+**Main Features:**
+- Structured C code
+- Algorithmic thinking
+- Console-based interaction
+- Memory and logic handling
+
+---
+
+## What I Focus On
+
+- Writing clean and readable code
+- Building maintainable software systems
+- Understanding backend and database logic deeply
+- Designing practical full-stack applications
+- Improving code quality, security, and architecture
+- Turning ideas into real working products
+
+---
+
+## Currently Learning
+
+- Advanced backend development
+- System design fundamentals
+- Software security principles
+- API design and authentication
+- Cloud deployment and production-ready workflows
+
+---
+
+## Connect With Me
+
+- GitHub: [JolianHabib](https://github.com/JolianHabib)
+- LinkedIn: (https://www.linkedin.com/in/jolian-habib-se/)
+- Portfolio: (https://jolian-portfolio.vercel.app/)
+- Email: Jolianhabib123@gmail.com
