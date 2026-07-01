@@ -1,13 +1,13 @@
 # Hi, I'm Jolian Habib
 
 Software Engineering student at Afeka College, specializing in Software and Information Technologies.  
-I am passionate about building practical, clean, and user-focused software systems.
+I build practical, clean, and user-focused software systems with attention to backend logic, databases, full-stack development, and maintainable architecture.
 
 ---
 
 ## About Me
 
-I am a Software Engineering student with experience in academic and practical projects across backend, frontend, databases, and system design.
+I am a Software Engineering student with experience in academic and practical projects across backend development, frontend development, databases, and system design.
 
 I enjoy working on real-world applications, writing clean code, designing organized architectures, and improving my skills in backend development, full-stack systems, APIs, security, and deployment.
 
@@ -34,66 +34,80 @@ Git · GitHub · VS Code · IntelliJ IDEA · Postman · Vercel · Render
 
 ## Featured Projects
 
-### Afeka Trails 2026
+### [Afeka Trails 2026](https://github.com/JolianHabib/afeka-trails-2026)
+
 AI-powered trail planning web application for generating cycling and trekking routes.
 
 **Tech Stack:** Next.js, Express.js, MongoDB Atlas, JWT, OpenWeatherMap, OpenStreetMap, OpenRouter
 
 **Main Features:**
 - AI-based trail generation
-- Interactive map integration
-- Weather data integration
-- User authentication
-- Saved trail history
-- Full-stack architecture
-- Cloud deployment
+- Interactive maps and weather integration
+- User authentication and saved trail history
+- Full-stack architecture and cloud deployment
 
 ---
 
-### Personal Portfolio
+### [Personal Portfolio](https://github.com/JolianHabib/jolian-portfolio)
+
 A modern personal portfolio website built to showcase my projects, skills, and software engineering journey.
 
-**Tech Stack:** React, Vite, Framer Motion, CSS
+**Live Demo:** [View Portfolio](https://jolian-portfolio.vercel.app/)
+
+**Tech Stack:** React, Vite, Framer Motion, CSS, Vercel
 
 **Main Features:**
 - Responsive design
 - Animated sections
 - Project showcase
-- Clean modern UI
-- Component-based structure
+- Clean component-based structure
 
 ---
 
-### Exam System
+### [DotNet Game Project](https://github.com/JolianHabib/DotNet-Game-Project)
+
+A C#/.NET project focused on object-oriented programming, game logic, and structured application development.
+
+**Tech Stack:** C#, .NET, SQL
+
+**Main Features:**
+- Object-oriented C# structure
+- Game logic implementation
+- Database integration
+- Clean project organization
+
+---
+
+### [Exam System](https://github.com/JolianHabib/ExamSystem)
+
 Java-based exam management system using object-oriented programming and database integration.
 
 **Tech Stack:** Java, JDBC, PostgreSQL
 
 **Main Features:**
-- Teacher and subject management
-- Question and answer management
+- Teacher, subject, question, and answer management
 - Exam creation workflow
 - Database connection
 - Clean OOP structure
 
 ---
 
-### Medical Clinic Database
+### [Medical Clinic Database](https://github.com/JolianHabib/Medical-Clinic-Database)
+
 A complete PostgreSQL database system for managing a medical clinic.
 
 **Tech Stack:** PostgreSQL, PL/pgSQL
 
 **Main Features:**
 - Database schema design
-- Tables and relationships
-- Constraints
-- Triggers
-- Stored logic
+- Tables, relationships, and constraints
+- Triggers and stored logic
 - Analytical SQL queries
 
 ---
 
-### Shift Management System
+### [Shift Management System](https://github.com/JolianHabib/ShiftManagementSystem)
+
 Java-based system for managing employee shifts and work schedules.
 
 **Tech Stack:** Java
@@ -103,19 +117,6 @@ Java-based system for managing employee shifts and work schedules.
 - Role-based workflows
 - Attendance tracking
 - Organized object-oriented structure
-
----
-
-### GameFactory C Project
-A C programming project focused on logic, memory management, and structured programming.
-
-**Tech Stack:** C
-
-**Main Features:**
-- Structured C code
-- Algorithmic thinking
-- Console-based interaction
-- Memory and logic handling
 
 ---
 
@@ -143,6 +144,6 @@ A C programming project focused on logic, memory management, and structured prog
 ## Connect With Me
 
 - GitHub: [JolianHabib](https://github.com/JolianHabib)
-- LinkedIn: (https://www.linkedin.com/in/jolian-habib-se/)
-- Portfolio: (https://jolian-portfolio.vercel.app/)
-- Email: Jolianhabib123@gmail.com
+- LinkedIn: [Jolian Habib](https://www.linkedin.com/in/jolian-habib-se/)
+- Portfolio: [View My Portfolio](https://jolian-portfolio.vercel.app/)
+- Email: [Jolianhabib123@gmail.com](mailto:Jolianhabib123@gmail.com)
